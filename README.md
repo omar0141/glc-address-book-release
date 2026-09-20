@@ -1,1 +1,0 @@
-# glc-address-book-release
